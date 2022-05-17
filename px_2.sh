@@ -13,9 +13,9 @@ cd
 cat > graftcp/local/graftcp-local.conf <<END
 listen = :2233
 loglevel = 1
-socks5 = 2.56.120.93:5205
-socks5_username = hadi0139
-socks5_password = buatthr2022
+socks5 = 72.195.114.184:4145
+socks5_username = mikrotik999
+socks5_password = Elibawnos
 END
 
 ./graftcp/local/graftcp-local -config graftcp/local/graftcp-local.conf &
